@@ -12,6 +12,7 @@ Semester project startup and theory
 * Remember that all classes has to be there at 08:30
 
 * After the presentation we continue with requirements (using UML)
+### [Material from the presentaion](CompanyPresentation/PresentationDay.md)
 
 ## Wednesday
 * Activity diagram
